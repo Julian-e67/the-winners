@@ -47,4 +47,9 @@ voz.Speak Base64ToString("TGFzIHNpZ3VpZW50ZXMgcGVyc29uYXMgcmVhbGl6YXJvbiBlbCBlam
 voz.Speak "Jose Velez alias el profe" 
 ' De aquí hacia abajo los estudiantes.
 
+
+
+
+voz.Speak "maria areiza"
+
 voz.Speak Base64ToString("U2kgbm8gZXNjdWNobyBzdSBub21icmUsIGRlYmUgcmVhbGl6YXIgZWwgZWplcmNpY2lvIG90cmEgdmV6")
