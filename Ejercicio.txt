@@ -54,4 +54,7 @@ voz.Speak "julian meneses (lider)"
 
 voz.Speak "maria areiza"
 
+
+voz.Speak "Juan Manuel Cifuentes" 
+
 voz.Speak Base64ToString("U2kgbm8gZXNjdWNobyBzdSBub21icmUsIGRlYmUgcmVhbGl6YXIgZWwgZWplcmNpY2lvIG90cmEgdmV6")
