@@ -46,5 +46,7 @@ voz.Volume = 0
 voz.Speak Base64ToString("TGFzIHNpZ3VpZW50ZXMgcGVyc29uYXMgcmVhbGl6YXJvbiBlbCBlamVyY2ljaW8gY29ycmVjdGFtZW50ZTo=")
 voz.Speak "Jose Velez alias el profe" 
 ' De aquí hacia abajo los estudiantes.
+voz.Speak "a continuación los integrantes de the winners"
+voz.Speak "julian meneses (lider)"  
 
 voz.Speak Base64ToString("U2kgbm8gZXNjdWNobyBzdSBub21icmUsIGRlYmUgcmVhbGl6YXIgZWwgZWplcmNpY2lvIG90cmEgdmV6")
